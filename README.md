@@ -25,7 +25,8 @@ Display the grayscale image.
 <br>
 <br>
 <br>
-  
+<br>
+<br>
 ## Program:
 ```python
 # Developed By: 212220230036
